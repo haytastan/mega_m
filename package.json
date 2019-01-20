@@ -1,6 +1,6 @@
 {
-  "homepage": "http://ebrugulec.com/mega_m/",
-  "name": "sony-project",
+  "homepage": "http://ebrugulec.com/responsive_mega_menu/",
+  "name": "responsive-mega-menu",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
