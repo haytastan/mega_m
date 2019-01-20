@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './style.scss'
-import Menues from '../utils/Menues'
+import Menues from '../constants/Menues'
 import NavigationItems from './NavigationItems'
 import DrawerToggleButton from './DrawerToggleButton'
 import SideDrawer from './SideDrawer'
